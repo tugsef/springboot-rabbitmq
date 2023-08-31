@@ -1,0 +1,22 @@
+server:
+  port: 8500
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: tugsef
+    password: tugsef
+    
+tg:
+  rappitmq:
+    queue:
+      name: tugsef_queue
+      json:
+        name: tugsef_json_queue
+    exchange:
+      name: tugsef_exchange
+    routing:
+      key: tugsef_routing_keyx"
+      json:
+        key: tugsef_routing_json_keyx"
