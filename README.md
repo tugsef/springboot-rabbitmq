@@ -7,4 +7,5 @@ Springboot with basic rabbitmq
 
 
 
-![](https://github.com/tugsef/springboot-rabbitmq/blob/main/basicschema1.png)https://github.com/tugsef/springboot-rabbitmq/blob/main/basicschema1.png)
+![](https://github.com/tugsef/springboot-rabbitmq/blob/main/basicschema1.png)
+ 
